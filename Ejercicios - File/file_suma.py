@@ -10,6 +10,7 @@ def leerNumero():
     print("suma :", suma)
     promedio = suma/contador
     print("promedio :", promedio)
+    archivo.close()
     
 
 leerNumero()
