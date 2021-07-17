@@ -1,7 +1,0 @@
-archivo = open("C:/Users/Beto/Desktop/Python/documento.txt" , "r+")
-contenido = archivo.read()
-final_de_archivo = archivo.tell()
-archivo.write('Nueva Linea')
-archivo.seek(final_de_archivo)
-nuevo_contenido = archivo.read()
-print(nuevo_contenido)
