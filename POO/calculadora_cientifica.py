@@ -44,6 +44,5 @@ class raiz(Calculadora):
 
 
 
-#ejemplo = raiz()
-#print(ejemplo.ingresar_dato())
-#print(ejemplo.r_cuadrada())
+#objeto = op_basicas()
+#print(issubclass(op_basicas,Calculadora))
